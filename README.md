@@ -1,6 +1,6 @@
 # BaseballAnalytics-NonParametric
 
-This analysis in R uses non-parametric statistical methods to answer three questions related to MLB analytics:
+This project uses non-parametric methods in R to answer three questions related to MLB analytics:
 
 1. What is the "best" baseball statistic?
 
