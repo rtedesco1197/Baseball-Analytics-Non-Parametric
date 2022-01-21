@@ -8,4 +8,4 @@ This project uses non-parametric statisitics in R to answer three questions rela
 
 3. Using bootstrapping to compare the ability of two players.
 
-Source code is available through the .Rmd report.
+Source code is reproducible through the .Rmd report.
